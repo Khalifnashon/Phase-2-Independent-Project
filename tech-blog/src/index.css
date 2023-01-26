@@ -4,7 +4,8 @@
 * {
   margin: 0;
   font-family: "Quicksand";
-  color: #333;
+  color: rgb(235, 227, 227);
+  background-color:black;
 }
 .navbar {
   padding: 20px;
