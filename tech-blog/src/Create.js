@@ -50,6 +50,7 @@ const Create = () => {
       </form>
     </div>
   );
+}
 
  
 export default Create;
