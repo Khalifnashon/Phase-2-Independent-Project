@@ -3,7 +3,7 @@ import React from 'react';
 const AboutUs = () => {
   return (
     <div>
-        {/* <img src={require('./images/blogger.jpg')} alt="about us" style={{ width: '500px', height: '200px' }} /> */}
+        <img src={require('./images/blogger.jpg')} alt="about us" style={{ width: '500px', height: '200px' }} />
         <h1>About Us</h1>
         <p>We are a team of technology enthusiasts who are passionate about sharing the latest developments and trends in the tech industry.</p>
         <p>Our blog covers a wide range of topics, including software development, artificial intelligence, cybersecurity, and more. Our goal is to provide our readers with in-depth analysis, helpful tutorials, and expert opinions on the latest technologies.</p>
