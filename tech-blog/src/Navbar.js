@@ -6,6 +6,7 @@ const Navbar = () => {
       <h1>TechXtra Blog</h1>
       <div className="links">
         <Link to="/">Home</Link>
+        <Link to="/aboutUs">About Us</Link>
         <Link to="/create" style={{ 
           color: 'white', 
           backgroundColor: '#f1356d',
