@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Phase-2-Independent-Project/static/css/main.f1e198e1.css",
+    "main.js": "/Phase-2-Independent-Project/static/js/main.aee8dfe6.js",
+    "static/media/blogger.jpg": "/Phase-2-Independent-Project/static/media/blogger.9593856b3fb795cd3577.jpg",
+    "index.html": "/Phase-2-Independent-Project/index.html",
+    "main.f1e198e1.css.map": "/Phase-2-Independent-Project/static/css/main.f1e198e1.css.map",
+    "main.aee8dfe6.js.map": "/Phase-2-Independent-Project/static/js/main.aee8dfe6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1e198e1.css",
+    "static/js/main.aee8dfe6.js"
+  ]
+}
