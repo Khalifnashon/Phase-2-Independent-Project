@@ -7,6 +7,7 @@ import NotFound from './NotFound';
 import AboutUs from './AboutUs';
 
 function App() {
+  // Creating routes
   return (
     <Router>
       <div className="App">
